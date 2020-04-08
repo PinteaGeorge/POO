@@ -1,0 +1,6 @@
+D:\Ale\faculta\CURS POO\SIzeOfFileOrFolder\SIzeOfFileOrFolder\bin\Debug\SIzeOfFileOrFolder.exe.config
+D:\Ale\faculta\CURS POO\SIzeOfFileOrFolder\SIzeOfFileOrFolder\bin\Debug\SIzeOfFileOrFolder.exe
+D:\Ale\faculta\CURS POO\SIzeOfFileOrFolder\SIzeOfFileOrFolder\bin\Debug\SIzeOfFileOrFolder.pdb
+D:\Ale\faculta\CURS POO\SIzeOfFileOrFolder\SIzeOfFileOrFolder\obj\Debug\SIzeOfFileOrFolder.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\SIzeOfFileOrFolder\SIzeOfFileOrFolder\obj\Debug\SIzeOfFileOrFolder.exe
+D:\Ale\faculta\CURS POO\SIzeOfFileOrFolder\SIzeOfFileOrFolder\obj\Debug\SIzeOfFileOrFolder.pdb
