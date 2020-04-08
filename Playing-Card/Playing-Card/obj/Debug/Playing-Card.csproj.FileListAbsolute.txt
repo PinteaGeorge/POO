@@ -1,0 +1,6 @@
+D:\Ale\faculta\CURS POO\Playing-Card\Playing-Card\bin\Debug\Playing-Card.exe.config
+D:\Ale\faculta\CURS POO\Playing-Card\Playing-Card\bin\Debug\Playing-Card.exe
+D:\Ale\faculta\CURS POO\Playing-Card\Playing-Card\bin\Debug\Playing-Card.pdb
+D:\Ale\faculta\CURS POO\Playing-Card\Playing-Card\obj\Debug\Playing-Card.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\Playing-Card\Playing-Card\obj\Debug\Playing-Card.exe
+D:\Ale\faculta\CURS POO\Playing-Card\Playing-Card\obj\Debug\Playing-Card.pdb
