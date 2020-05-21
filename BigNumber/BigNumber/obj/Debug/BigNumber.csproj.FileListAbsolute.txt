@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\BigNumber\BigNumber\bin\Debug\BigNumber.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\BigNumber\BigNumber\bin\Debug\BigNumber.exe
+C:\AnyThingElse\PB VS C#\.Labs\BigNumber\BigNumber\bin\Debug\BigNumber.pdb
+C:\AnyThingElse\PB VS C#\.Labs\BigNumber\BigNumber\obj\Debug\BigNumber.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\BigNumber\BigNumber\obj\Debug\BigNumber.exe
+C:\AnyThingElse\PB VS C#\.Labs\BigNumber\BigNumber\obj\Debug\BigNumber.pdb
