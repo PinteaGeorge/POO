@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\ProblemaLR\ProblemaLR\bin\Debug\ProblemaLR.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\ProblemaLR\ProblemaLR\bin\Debug\ProblemaLR.exe
+C:\AnyThingElse\PB VS C#\.Labs\ProblemaLR\ProblemaLR\bin\Debug\ProblemaLR.pdb
+C:\AnyThingElse\PB VS C#\.Labs\ProblemaLR\ProblemaLR\obj\Debug\ProblemaLR.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\ProblemaLR\ProblemaLR\obj\Debug\ProblemaLR.exe
+C:\AnyThingElse\PB VS C#\.Labs\ProblemaLR\ProblemaLR\obj\Debug\ProblemaLR.pdb
