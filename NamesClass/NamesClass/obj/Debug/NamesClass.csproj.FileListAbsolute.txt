@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\NamesClass\NamesClass\bin\Debug\NamesClass.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\NamesClass\NamesClass\bin\Debug\NamesClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\NamesClass\NamesClass\bin\Debug\NamesClass.pdb
+C:\AnyThingElse\PB VS C#\.Labs\NamesClass\NamesClass\obj\Debug\NamesClass.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\NamesClass\NamesClass\obj\Debug\NamesClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\NamesClass\NamesClass\obj\Debug\NamesClass.pdb
