@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\RationalNumber\RationalNumber\bin\Debug\RationalNumber.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\RationalNumber\RationalNumber\bin\Debug\RationalNumber.exe
+C:\AnyThingElse\PB VS C#\.Labs\RationalNumber\RationalNumber\bin\Debug\RationalNumber.pdb
+C:\AnyThingElse\PB VS C#\.Labs\RationalNumber\RationalNumber\obj\Debug\RationalNumber.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\RationalNumber\RationalNumber\obj\Debug\RationalNumber.exe
+C:\AnyThingElse\PB VS C#\.Labs\RationalNumber\RationalNumber\obj\Debug\RationalNumber.pdb
