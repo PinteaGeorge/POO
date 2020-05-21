@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\MatrixClass\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\MatrixClass\MatrixClass\bin\Debug\MatrixClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\MatrixClass\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\AnyThingElse\PB VS C#\.Labs\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\MatrixClass\MatrixClass\obj\Debug\MatrixClass.exe
+C:\AnyThingElse\PB VS C#\.Labs\MatrixClass\MatrixClass\obj\Debug\MatrixClass.pdb
