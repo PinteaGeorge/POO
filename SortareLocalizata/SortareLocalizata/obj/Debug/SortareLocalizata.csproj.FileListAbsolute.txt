@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\SortareLocalizata\SortareLocalizata\bin\Debug\SortareLocalizata.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\SortareLocalizata\SortareLocalizata\bin\Debug\SortareLocalizata.exe
+C:\AnyThingElse\PB VS C#\.Labs\SortareLocalizata\SortareLocalizata\bin\Debug\SortareLocalizata.pdb
+C:\AnyThingElse\PB VS C#\.Labs\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.exe
+C:\AnyThingElse\PB VS C#\.Labs\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.pdb
