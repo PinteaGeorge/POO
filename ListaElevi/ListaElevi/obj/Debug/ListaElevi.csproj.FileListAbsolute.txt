@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\ListaElevi\ListaElevi\bin\Debug\ListaElevi.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\ListaElevi\ListaElevi\bin\Debug\ListaElevi.exe
+C:\AnyThingElse\PB VS C#\.Labs\ListaElevi\ListaElevi\bin\Debug\ListaElevi.pdb
+C:\AnyThingElse\PB VS C#\.Labs\ListaElevi\ListaElevi\obj\Debug\ListaElevi.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\ListaElevi\ListaElevi\obj\Debug\ListaElevi.exe
+C:\AnyThingElse\PB VS C#\.Labs\ListaElevi\ListaElevi\obj\Debug\ListaElevi.pdb
