@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\.Labs\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.exe
+C:\AnyThingElse\PB VS C#\.Labs\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.pdb
+C:\AnyThingElse\PB VS C#\.Labs\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.exe
+C:\AnyThingElse\PB VS C#\.Labs\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.pdb
