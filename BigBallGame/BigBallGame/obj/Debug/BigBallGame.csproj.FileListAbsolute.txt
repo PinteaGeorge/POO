@@ -1,0 +1,16 @@
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\bin\Debug\BigBallGame.exe.config
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\bin\Debug\BigBallGame.exe
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\bin\Debug\BigBallGame.pdb
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\obj\Debug\BigBallGame.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\obj\Debug\BigBallGame.exe
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\obj\Debug\BigBallGame.pdb
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\obj\Debug\Window.resources
+C:\AnyThingElse\PB VS C#\BigBallGame\BigBallGame\obj\Debug\BigBallGame.csproj.GenerateResource.cache
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\bin\Debug\BigBallGame.exe.config
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\bin\Debug\BigBallGame.exe
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\bin\Debug\BigBallGame.pdb
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\obj\Debug\BigBallGame.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\obj\Debug\Window.resources
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\obj\Debug\BigBallGame.csproj.GenerateResource.cache
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\obj\Debug\BigBallGame.exe
+C:\AnyThingElse\PB VS C#\.Labs\BigBallGame\BigBallGame\obj\Debug\BigBallGame.pdb
