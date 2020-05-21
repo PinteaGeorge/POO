@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.exe.config
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.exe
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.pdb
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.exe
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.pdb
